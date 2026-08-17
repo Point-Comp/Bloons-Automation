@@ -1,6 +1,6 @@
 # BTD6 Autoplay
 
-A set of macOS automation scripts that play through fixed Bloons TD 6 strategies unattended.
+A set of macOS automation scripts that play through fixed Bloons strategies unattended.
 
 Written in Python with `pyautogui`, `pynput`, and raw Quartz CoreGraphics events for the input the higher-level libraries can't produce.
 
