@@ -15,7 +15,7 @@ Written in Python with `pyautogui`, `pynput`, and raw Quartz CoreGraphics events
 
 - macOS for the Bloons Monkey City scripts, but works on all platforms for BTD6
 - Python 3.9+
-- Bloons TD 6(...)
+- Bloons(...)
 
 ```bash
 pip install -r requirements.txt
