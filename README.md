@@ -87,7 +87,7 @@ The waits are tuned to how long rounds take at your fast-forward speed with your
 
 ### 4. Add your own strategy
 
-This is the point of the repo. Copy the closest runner, keep `human_click`, `check_for_defeat`, `smart_sleep`, the `GameFail` class and the `try/except` loop exactly as they are, and rewrite only the body of `start_automation()` with your own sequence.
+Copy the closest runner, keep `human_click`, `check_for_defeat`, `smart_sleep`, the `GameFail` class and the `try/except` loop exactly as they are, and rewrite only the body of `start_automation()` with your own sequence.
 
 The pattern for a single tower is pretty much the same.
 
