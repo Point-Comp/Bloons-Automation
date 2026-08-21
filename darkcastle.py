@@ -22,7 +22,7 @@ def start_automation():
         human_click(457.5, 462.0)
         time.sleep(1)
         human_click(1039.5, 464.0)
-        time.sleep(4)
+        time.sleep(6)
         human_click(772.0, 695.0)
         time.sleep(1)
         human_click(1144.5, 554.0)

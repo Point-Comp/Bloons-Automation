@@ -3,7 +3,7 @@ from pynput import keyboard
 import sys
 
 # take a picture of the specific icon or placement on screen and paste and use it here to find coords,
-TARGET_IMAGE = 'home.png'
+TARGET_IMAGE = 'play.png'
 
 def find_coordinates():
     print(f"\n--- Scanning for {TARGET_IMAGE} ---")
